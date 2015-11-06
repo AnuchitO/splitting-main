@@ -1,0 +1,3 @@
+*** Test Cases ***
+NOng Test
+	Log    NONG   console=True
